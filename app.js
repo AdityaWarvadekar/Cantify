@@ -197,7 +197,7 @@ app.get("/top-picks", function(req, res){
   res.render("topPicks", {dishes: dishes});
 });
 
-
-app.listen("3000", function(){
-  console.log("App Started on port 3000");
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, function(){
+  console.log("App Started on port " + PORT);
 });
