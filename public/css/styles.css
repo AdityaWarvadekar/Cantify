@@ -472,6 +472,37 @@ ul {
   background-color: #262525;
 }
 
+.contactContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 5vh 0;
+}
+
+.loginpage{
+  text-align: center;
+  padding: 10vh 0;
+}
+
+.loginpage form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50vh;
+  justify-content: center;
+}
+
+.loginbtn{
+  font-size: 2vh;
+  padding: 1vh;
+  border-radius: 10px;
+  background-color: green;
+  border: 2px solid black;
+  color: white;
+}
+
+
 
 
 
