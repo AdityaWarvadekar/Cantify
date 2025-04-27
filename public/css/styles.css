@@ -16,7 +16,7 @@ body {
 /* NAVBAR START */
 
 .nav {
-  background-color: #ffd11a;
+  background-color: #f2600c;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -30,7 +30,7 @@ body {
 
 
 .left a {
-  font-size: 2vw;
+  font-size: 5vw;
   text-decoration: none;
   color: #282a35;
 }
@@ -41,7 +41,7 @@ ul {
   align-items: center;
   list-style: none;
   font-family: "Montserrat";
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .right{
@@ -78,7 +78,7 @@ ul {
 
 .right button:hover, .btn:hover {
   color: white;
-  background-color: #262525;
+  background-color: #d31515;
 }
 
 .left {

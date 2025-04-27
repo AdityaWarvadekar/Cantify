@@ -13,7 +13,7 @@ app.use(express.static("public"));
 
 const dishes =[
         {
-          name : "dosa",
+          name : "aditya",
           dishName : "Masala Dosa",
           category: "special",
           description: "traditional south Indian Staple",
@@ -22,7 +22,7 @@ const dishes =[
           status: "+ Add"
         },
         {
-          name : "samosa",
+          name : "alpha",
           dishName : "Samosa",
           category: "dish",
           price: 10,
@@ -30,7 +30,7 @@ const dishes =[
           status: "+ Add"
         },
         {
-          name : "rajmachawal",
+          name : "aditya papa",
           dishName : "Rajma Chawal",
           category: "dish",
           price: 40,
