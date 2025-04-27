@@ -30,7 +30,7 @@ const dishes =[
           status: "+ Add"
         },
         {
-          name : "aditya papa",
+          name : "rajma_chawal",
           dishName : "Rajma Chawal",
           category: "dish",
           price: 40,
